@@ -4,15 +4,11 @@
 
 Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando a programação e aprender cada dia mais.
 
-
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+ <br/> 🔭 &nbsp; Atualmente focando no meu TCC e em aprender tudo sobre React, JS e TS
+ <br/> :purple_heart: &nbsp;  Buscando colaborar com projetos da maneira que eu puder
+ <br/> :computer: Metas para 2020: Contribuir com diversos projetos open-source &nbsp; 
+ <br/> 💬  &nbsp; Sobre mim: Curto games :video_game: CS:GO, LoL, seriados no Netflix :tv: e ouvir musica :headphones:. No meu tempo livre, toco violão :guitar:! 
+ 
 
 
 <!--
