@@ -1,12 +1,9 @@
-### Hi there 👋
+# Vinicius Stephanto
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+## Olá, dev! 👋
 
-# Thiago Marinho
+Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando a programação e aprender cada dia mais.
 
-## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
