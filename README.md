@@ -12,6 +12,11 @@ Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando
  
  ### Conecte-se a mim:
  
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
  ### Linguagens e Ferramentas:
 <img align="left" alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -46,3 +51,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[instagram]: https://www.instagram.com/v.stephanto/
+[linkedin]: https://www.linkedin.com/in/vinicius-stephanto-a8622217b/
