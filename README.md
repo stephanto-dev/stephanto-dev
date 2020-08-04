@@ -36,7 +36,7 @@ Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando
 
  ##
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stephanto-dev&show_icons=true&theme=dracula&count_private=true)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stephanto-dev&show_icons=true&theme=dark&count_private=true)
 
 
 <!--
