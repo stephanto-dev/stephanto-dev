@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-```markdown
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 # Thiago Marinho
@@ -18,7 +17,6 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
-```
 
 <!--
 **stephanto-dev/stephanto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
