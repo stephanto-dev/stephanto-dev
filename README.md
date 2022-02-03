@@ -35,7 +35,11 @@ Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando
 
  ##
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stephanto-dev&show_icons=true&theme=dark&count_private=true)
+<div align="center">
+  <a href="https://github.com/stephanto-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephanto-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanto-dev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 <!--
