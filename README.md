@@ -6,8 +6,8 @@ Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando
 
  <br/> 🔭 &nbsp; Atualmente focado em aprender tudo sobre React, JS e TS.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos da maneira que eu puder.
- <br/> :computer: &nbsp; Metas para 2022: Contribuir com diversos projetos open-source. &nbsp; 
- <br/> 💬  &nbsp; Sobre mim: Curto games CS:GO, LoL :video_game: , seriados no Netflix :tv: e ouvir musica :headphones:. No meu tempo livre, toco violão :guitar:! 
+ <br/> :computer: &nbsp; Metas para 2022: Aprender cada vez mais. &nbsp; 
+ <br/> 💬  &nbsp; Sobre mim: Curto games :video_game: , seriados no Netflix :tv: e ouvir musica :headphones:. No meu tempo livre, toco violão :guitar:! 
  
  
  ### Conecte-se a mim:
@@ -24,7 +24,6 @@ Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando
 <img align="left" alt="JavaScript" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PHP" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="Python" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="MySQL" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
