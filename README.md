@@ -7,7 +7,7 @@ Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando
  <br/> 🔭 &nbsp; Atualmente focado em aprender tudo sobre React, JS e TS.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos da maneira que eu puder.
  <br/> :computer: &nbsp; Metas para 2023: Aprender cada vez mais. &nbsp; 
- <br/> 💬  &nbsp; Sobre mim: Curto games :video_game: , seriados no Netflix :tv: e ouvir musica :headphones:. No meu tempo livre, toco violão :guitar:! 
+ <br/> 💬  &nbsp; Sobre mim: Curto games :video_game: , Academia 💪: e ouvir musica :headphones:. 
  
  
  ### Conecte-se a mim:
