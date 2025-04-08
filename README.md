@@ -4,9 +4,8 @@
 
 Sou um estudante apaixonado por novas tecnologias, resolver problemas utilizando a programação e aprender cada dia mais.
 
- <br/> 🔭 &nbsp; Atualmente focado em aprender tudo sobre React, JS e TS.
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos da maneira que eu puder.
- <br/> :computer: &nbsp; Metas: Aprender cada vez mais. &nbsp; 
+ <br/> 🔭 &nbsp; Atualmente focado em aprender tudo sobre React, TS, Gestão e Produto.
+ <br/> :computer: &nbsp; Metas: Empreender e me tornar um dev melhor. &nbsp; 
  <br/> 💬  &nbsp; Sobre mim: Curto games :video_game: , Academia 💪: e ouvir musica :headphones:. 
  
  
