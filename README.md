@@ -84,6 +84,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/stephanto-dev/stephanto-dev/output/snake.svg" alt="Snake animation" />
-
 ###
